@@ -1,2 +1,3 @@
-document.getElementById("texto").innerHTML="Meu primeiro texto <strong>JavaScript</strong>!";
-console.log("Oi isso é um console.log");
+function minhafuncao(){
+    document.write(5 + 5);
+}
